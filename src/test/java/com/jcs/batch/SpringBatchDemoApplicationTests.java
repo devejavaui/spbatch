@@ -1,10 +1,10 @@
-package com.poc.spbatch;
+package com.jcs.batch;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpbatchApplicationTests {
+class SpringBatchDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
